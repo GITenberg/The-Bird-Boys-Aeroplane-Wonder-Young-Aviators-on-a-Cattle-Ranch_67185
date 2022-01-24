@@ -1,0 +1,24 @@
+_repo: The-Bird-Boys-Aeroplane-Wonder-Young-Aviators-on-a-Cattle-Ranch_67185
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Langworthy, John Luther
+    gutenberg_agent_id: '3583'
+    url: http://www.gutenberg.org/2009/agents/3583
+description: ''
+gutenberg_issued: '2022-01-17'
+identifiers:
+  gutenberg: '67185'
+language: en
+pgterms:marc905: 20211118111225langworthy
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United States :M. A. Donohue & Company,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Bird Boys'' Aeroplane Wonder: Young Aviators on a Cattle Ranch'
+url: http://www.gutenberg.org/ebooks/67185
